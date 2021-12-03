@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.f7db41e1.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.f7db41e1.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e74caf3f.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e74caf3f.js.map",
+    "main.css": "/react-portfolio/static/css/main.f819d5b0.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.c041de11.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c041de11.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.256c6898.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.256c6898.js.map",
     "static/js/2.9b39746c.chunk.js": "/react-portfolio/static/js/2.9b39746c.chunk.js",
     "static/js/2.9b39746c.chunk.js.map": "/react-portfolio/static/js/2.9b39746c.chunk.js.map",
-    "static/js/3.c94300b7.chunk.js": "/react-portfolio/static/js/3.c94300b7.chunk.js",
-    "static/js/3.c94300b7.chunk.js.map": "/react-portfolio/static/js/3.c94300b7.chunk.js.map",
+    "static/js/3.91b5d926.chunk.js": "/react-portfolio/static/js/3.91b5d926.chunk.js",
+    "static/js/3.91b5d926.chunk.js.map": "/react-portfolio/static/js/3.91b5d926.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.f819d5b0.chunk.css.map": "/react-portfolio/static/css/main.f819d5b0.chunk.css.map",
     "static/js/2.9b39746c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.9b39746c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-portfolio/static/media/logo.6ce24c58.svg"
+    "static/media/26CE43A5-3519-4DB0-AD15-08429FC62AA2.38c0e996.jpeg": "/react-portfolio/static/media/26CE43A5-3519-4DB0-AD15-08429FC62AA2.38c0e996.jpeg",
+    "static/media/Coding Quiz.7aa6b936.png": "/react-portfolio/static/media/Coding Quiz.7aa6b936.png",
+    "static/media/Kanwaye.010138cd.png": "/react-portfolio/static/media/Kanwaye.010138cd.png",
+    "static/media/Screen Shot 2021-10-17 at 9.00.56 PM.a783905c.png": "/react-portfolio/static/media/Screen Shot 2021-10-17 at 9.00.56 PM.a783905c.png",
+    "static/media/Screen Shot 2021-10-17 at 9.03.49 PM.07982466.png": "/react-portfolio/static/media/Screen Shot 2021-10-17 at 9.03.49 PM.07982466.png",
+    "static/media/Work-day-scheduler.236e23e9.png": "/react-portfolio/static/media/Work-day-scheduler.236e23e9.png",
+    "static/media/photo-of-me.5bcaa12c.jpeg": "/react-portfolio/static/media/photo-of-me.5bcaa12c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e74caf3f.js",
+    "static/js/runtime-main.256c6898.js",
     "static/js/2.9b39746c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f7db41e1.chunk.js"
+    "static/css/main.f819d5b0.chunk.css",
+    "static/js/main.c041de11.chunk.js"
   ]
 }
